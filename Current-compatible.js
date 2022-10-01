@@ -1,3 +1,4 @@
+function addLandmarks() {
 console.log("GeoFS 3d Landmark %C2%A9%EF%B8%8F2020-2021 ExtendDevelopment Inc, all rights reserved. Modified for compatibility with GeoFS versions 3.0 and higher by NVB9.");
 geofs.objects.objectList = []
 geofs.objects.objectList[0] = {
@@ -127,3 +128,4 @@ geofs.objects.objectList[17] = {
    "options": { "shadows": 1 }, "type": 100
 }
    geofs.objects.loadModels();
+}
