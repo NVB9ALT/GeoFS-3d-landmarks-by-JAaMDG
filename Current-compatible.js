@@ -30,42 +30,42 @@ geofs.objects.objectList[3] = {
    "options": { "shadows": 1 }, "type": 100
 }
 geofs.objects.objectList[4] = {
-   "location": [33.944006649127665, -118.40384478693352, 0],
+   "location": [33.944006649127665, -118.40384478693352, 10],
    "url": "https://geo-fs.com/backend/aircraft/repository/3D%20buildings_267286_3670/genericatc.glb",
    "htr": [0, 0, 0],
    "scale": 1,
    "options": { "shadows": 1 }, "type": 100
 }
 geofs.objects.objectList[5] = {
-   "location": [51.47178486314496, -0.4654623912115562, 0],
+   "location": [51.47178486314496, -0.4654623912115562, 10],
    "url": "https://geo-fs.com/backend/aircraft/repository/3D%20buildings_267286_3670/genericatc.glb",
    "htr": [0, 0, 0],
    "scale": 1,
    "options": { "shadows": 1 }, "type": 100
 }
 geofs.objects.objectList[6] = {
-   "location": [49.003465520509174, 2.573483109426901, 0],
+   "location": [49.003465520509174, 2.573483109426901, 10],
    "url": "https://geo-fs.com/backend/aircraft/repository/3D%20buildings_267286_3670/genericatc.glb",
    "htr": [0, 0, 0],
    "scale": 1,
    "options": { "shadows": 1 }, "type": 100
 }
 geofs.objects.objectList[7] = {
-   "location": [49.003465520509174, 2.573483109426901, 0],
+   "location": [49.003465520509174, 2.573483109426901, 10],
    "url": "https://geo-fs.com/backend/aircraft/repository/3D%20buildings_267286_3670/genericatc.glb",
    "htr": [0, 0, 0],
    "scale": 1,
    "options": { "shadows": 1 }, "type": 100
 }
 geofs.objects.objectList[8] = {
-   "location": [37.615913114472754, -122.3838715058867, 0],
+   "location": [37.615913114472754, -122.3838715058867, 10],
    "url": "https://geo-fs.com/backend/aircraft/repository/3D%20buildings_267286_3670/genericatc.glb",
    "htr": [0, 0, 0],
    "scale": 1,
    "options": { "shadows": 1 }, "type": 100
 }
 geofs.objects.objectList[9] = {
-   "location": [25.797520104826276, -80.28080030099528, 0],
+   "location": [25.797520104826276, -80.28080030099528, 10],
    "url": "https://geo-fs.com/backend/aircraft/repository/3D%20buildings_267286_3670/genericatc.glb",
    "htr": [0, 0, 0],
    "scale": 1,
